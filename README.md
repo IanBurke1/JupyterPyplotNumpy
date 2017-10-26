@@ -7,7 +7,7 @@ This repository will contain solutions to [problem sheet 3](https://emerging-tec
 The programming language used for this problem sheet is [Python](https://www.python.org/)
 
 # Jupyter
-![](https://user-images.githubusercontent.com/22341150/32077018-e4f62c92-ba99-11e7-9c61-fee4fece1d45.png)
+![](https://user-images.githubusercontent.com/22341150/32078735-f67056a4-ba9f-11e7-856a-3ae2645699b0.png)
 
 [Jupyter Notebook](http://jupyter.org/) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. It used to be called IPython Notebook but has been renamed and moved to the Jupyter project.
 
