@@ -1,7 +1,7 @@
 # Jupyter, numpy and pyplot problem sheet 3
 This repository will contain solutions to [problem sheet 3](https://emerging-technologies.github.io/problems/jupyter.html) for [Emerging Technologies](https://emerging-technologies.github.io/) 4th year module. The problem sheet revolves around implementing Iris flower dataset using jupyter, numpy and pyplot.
 
- **Click on IrisDataSet.ipynb**
+### **_Click on IrisDataSet.ipynb_**
 
 # Python
 The programming language used for this problem sheet is [Python](https://www.python.org/)
