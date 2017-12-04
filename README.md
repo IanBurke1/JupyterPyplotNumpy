@@ -1,4 +1,5 @@
 # Jupyter, numpy and pyplot problem sheet 3
+#### *Emerging Technologies - Lecturer: [Dr Ian McLoughlin](ianmcloughlin.github.io) - 4th Year (Hons) Software Development*
 This repository will contain solutions to [problem sheet 3](https://emerging-technologies.github.io/problems/jupyter.html) for [Emerging Technologies](https://emerging-technologies.github.io/) 4th year module. The problem sheet revolves around implementing Iris flower dataset using jupyter, numpy and pyplot.
 
 ### **_Solutions can be found above in [IrisDataSet.ipynb](https://github.com/ianburkeixiv/JupyterPyplotNumpy/blob/master/IrisDataSet.ipynb)_**
